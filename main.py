@@ -111,3 +111,13 @@ for i, y in enumerate(np.linspace(screen[1], screen[3], height)):
     print("%d/%d" % (i + 1, height))
 
 plt.imsave('image.png', image)
+
+#In Version 2 No changes made checking GIT
+
+# echo "# Ray-Tracing" >> README.md
+# git init
+# git add README.md
+# git commit -m "first commit"
+# git branch -M main
+# git remote add origin https://github.com/DoggoofCode/Ray-Tracing.git
+# git push -u origin main
